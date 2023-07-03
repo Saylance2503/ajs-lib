@@ -1,0 +1,23 @@
+{
+  "name": "ajs-lib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saylance2503/ajs-lib.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saylance2503/ajs-lib/issues"
+  },
+  "homepage": "https://github.com/Saylance2503/ajs-lib#readme",
+  "dependencies": {
+    "@saylance2503/ajs": "^1.0.0"
+  }
+}
